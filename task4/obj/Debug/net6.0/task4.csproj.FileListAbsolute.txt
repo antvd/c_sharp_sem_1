@@ -1,0 +1,15 @@
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/bin/Debug/net6.0/task4
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/bin/Debug/net6.0/task4.deps.json
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/bin/Debug/net6.0/task4.runtimeconfig.json
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/bin/Debug/net6.0/task4.dll
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/bin/Debug/net6.0/task4.pdb
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.csproj.AssemblyReference.cache
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.AssemblyInfoInputs.cache
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.AssemblyInfo.cs
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.csproj.CoreCompileInputs.cache
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.dll
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/refint/task4.dll
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.pdb
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/task4.genruntimeconfig.cache
+/home/anton/projects/gb/c_sharp/seminar1/homework/task4/obj/Debug/net6.0/ref/task4.dll
